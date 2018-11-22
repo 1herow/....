@@ -39,30 +39,6 @@
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8"
         },
         {
-            "name":"战旗TV直播15",
-            "url":"http://liveal.quanmin.tv/live/2015339572_quanmin720.flv"
-        },
-        {
-            "name":"战旗TV直播16",
-            "url":"http://liveal.quanmin.tv/live/2046338612_quanmin720.flv"
-        },
-        {
-            "name":"战旗TV直播17",
-            "url":"http://liveal.quanmin.tv/live/2046736702_quanmin720.flv"
-        },
-        {
-            "name":"战旗TV直播18",
-            "url":"http://liveal.quanmin.tv/live/2038085940_quanmin720.flv"
-        },
-        {
-            "name":"战旗TV直播19",
-            "url":"http://liveal.quanmin.tv/live/2142818098_quanmin720.flv"
-        },
-        {
-            "name":"战旗TV直播20",
-            "url":"http://liveal.quanmin.tv/live/2038343220_quanmin720.flv"
-        },
-        {
             "name":"战旗电影39",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8"
         },
@@ -271,20 +247,12 @@
             "url":"http://pl-hls29.live.panda.tv/live_panda/468037c7eaf776c1807cffafddc34dc9.m3u8"
         },
         {
-            "name":"凤凰电影",
-            "url":"rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy"
-        },
-        {
             "name":"Newtv-喜剧电影",
             "url":"http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8"
         },
         {
             "name":"卫视电影台",
             "url":"http://pulllive-al.wasu.cn/live/1528461345367101.m3u8"
-        },
-        {
-            "name":"经典电影",
-            "url":"rtsp://119.39.49.116:554/ch00000090990000001054.sdp?vcdnid=001"
         },
         {
             "name":"环球电视台",

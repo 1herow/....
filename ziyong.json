@@ -1,297 +1,297 @@
 {
     "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
-    "title":"´óÔÓ»â",
+    "title":"å¤§æ‚çƒ©",
     "channels":[
         {
-            "name":"ÓĞÏßµçÓ°Ò»Ì¨",
+            "name":"æœ‰çº¿ç”µå½±ä¸€å°",
             "url":"http://xydirect.hls.huya.com/huyalive/ch1823a08ca8.m3u8"
         },
         {
-            "name":"´óÆ¬Ö±²¥",
+            "name":"å¤§ç‰‡ç›´æ’­",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
         },
         {
-            "name":"µç Ó° ¸ó",
+            "name":"ç”µ å½± é˜",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
         },
         {
-            "name":"ºìĞÄèÖ×Ó",
+            "name":"çº¢å¿ƒæŸšå­",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
         },
         {
-            "name":"ÀÏÆ¬²¥·Å",
+            "name":"è€ç‰‡æ’­æ”¾",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
         },
         {
-            "name":"Õ½Æìµã²¦2",
+            "name":"æˆ˜æ——ç‚¹æ‹¨2",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
         },
         {
-            "name":"Õ½ÆìµçÓ°16",
+            "name":"æˆ˜æ——ç”µå½±16",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8"
         },
         {
-            "name":"Õ½ÆìTVÖ±²¥9",
+            "name":"æˆ˜æ——TVç›´æ’­9",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8"
         },
         {
-            "name":"Õ½ÆìÓ°Ôº",
+            "name":"æˆ˜æ——å½±é™¢",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8"
         },
         {
-            "name":"Õ½ÆìTVÖ±²¥15",
+            "name":"æˆ˜æ——TVç›´æ’­15",
             "url":"http://liveal.quanmin.tv/live/2015339572_quanmin720.flv"
         },
         {
-            "name":"Õ½ÆìTVÖ±²¥16",
+            "name":"æˆ˜æ——TVç›´æ’­16",
             "url":"http://liveal.quanmin.tv/live/2046338612_quanmin720.flv"
         },
         {
-            "name":"Õ½ÆìTVÖ±²¥17",
+            "name":"æˆ˜æ——TVç›´æ’­17",
             "url":"http://liveal.quanmin.tv/live/2046736702_quanmin720.flv"
         },
         {
-            "name":"Õ½ÆìTVÖ±²¥18",
+            "name":"æˆ˜æ——TVç›´æ’­18",
             "url":"http://liveal.quanmin.tv/live/2038085940_quanmin720.flv"
         },
         {
-            "name":"Õ½ÆìTVÖ±²¥19",
+            "name":"æˆ˜æ——TVç›´æ’­19",
             "url":"http://liveal.quanmin.tv/live/2142818098_quanmin720.flv"
         },
         {
-            "name":"Õ½ÆìTVÖ±²¥20",
+            "name":"æˆ˜æ——TVç›´æ’­20",
             "url":"http://liveal.quanmin.tv/live/2038343220_quanmin720.flv"
         },
         {
-            "name":"Õ½ÆìµçÓ°39",
+            "name":"æˆ˜æ——ç”µå½±39",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8"
         },
         {
-            "name":"Õ½ÆìµçÓ°41",
+            "name":"æˆ˜æ——ç”µå½±41",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8"
         },
         {
-            "name":"Õ½ÆìµçÓ°43",
+            "name":"æˆ˜æ——ç”µå½±43",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8"
         },
         {
-            "name":"Õ½ÆìµçÓ°55",
+            "name":"æˆ˜æ——ç”µå½±55",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
         },
         {
-            "name":"Õ½ÆìÁ¬Ğø¾ç",
+            "name":"æˆ˜æ——è¿ç»­å‰§",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
         },
         {
-            "name":"Õ½ÆìÖ±²¥",
+            "name":"æˆ˜æ——ç›´æ’­",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/132008_Jti2T.m3u8"
         },
         {
-            "name":"Õ½ÆìÖ±²¥1",
+            "name":"æˆ˜æ——ç›´æ’­1",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
         },
         {
-            "name":"Õ½ÆìÖ±²¥2",
+            "name":"æˆ˜æ——ç›´æ’­2",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8"
         },
         {
-            "name":"Õ½Æì14",
+            "name":"æˆ˜æ——14",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8"
         },
         {
-            "name":"Õ½Æì60",
+            "name":"æˆ˜æ——60",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/33050_DEM7z.m3u8"
         },
         {
-            "name":"Õ½ÆìÓ°ÊÓ88",
+            "name":"æˆ˜æ——å½±è§†88",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/191499_M4ASe.m3u8 "
         },
         {
-            "name":"ÄÔ´ü´óµçÓ°¾ç",
+            "name":"è„‘è¢‹å¤§ç”µå½±å‰§",
             "url":"http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8"
         },
         {
-            "name":"Ğìá¿µçÓ°",
+            "name":"å¾å³¥ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8"
         },
         {
-            "name":"³ÂÏèÁùµã°ë",
+            "name":"é™ˆç¿”å…­ç‚¹åŠ",
             "url":"http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8"
         },
         {
-            "name":"¸Û¾çÂÖ²¥",
+            "name":"æ¸¯å‰§è½®æ’­",
             "url":"http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
         },
         {
-            "name":"ºé½ğ±¦",
+            "name":"æ´ªé‡‘å®",
             "url":"http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8"
         },
         {
-            "name":"Õç×Óµ¤",
+            "name":"ç”„å­ä¸¹",
             "url":"http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8"
         },
         {
-            "name":"³ÉÁú",
+            "name":"æˆé¾™",
             "url":"https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"ÖÜĞÇ³Û",
+            "name":"å‘¨æ˜Ÿé©°",
             "url":"http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"ÁÖÕıÓ¢",
+            "name":"æ—æ­£è‹±",
             "url":"http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"ÁõµÂ»ª",
+            "name":"åˆ˜å¾·å",
             "url":"http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"Íõ¾§",
+            "name":"ç‹æ™¶",
             "url":"http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"¹Å»ó×ĞµçÓ°",
+            "name":"å¤æƒ‘ä»”ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8"
         },
         {
-            "name":"¶Ä²©µçÓ°",
+            "name":"èµŒåšç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8"
         },
         {
-            "name":"¿Æ»ÃµçÓ°",
+            "name":"ç§‘å¹»ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8"
         },
         {
-            "name":"ÂşÍşµçÓ°",
+            "name":"æ¼«å¨ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8"
         },
         {
-            "name":"Å®Éñ¸ÛÆ¬",
+            "name":"å¥³ç¥æ¸¯ç‰‡",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8"
         },
         {
-            "name":"¹ÖÎï¿Æ»Ã",
+            "name":"æ€ªç‰©ç§‘å¹»",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8"
         },
         {
-            "name":"É¥Ê¬µçÓ°",
+            "name":"ä¸§å°¸ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8"
         },
         {
-            "name":"Õ½ÕùµçÓ°",
+            "name":"æˆ˜äº‰ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8"
         },
         {
-            "name":"·¸×ïĞüÒÉ",
+            "name":"çŠ¯ç½ªæ‚¬ç–‘",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8"
         },
         {
-            "name":"ºÃÀ³ÎëµçÓ°",
+            "name":"å¥½è±åç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8"
         },
         {
-            "name":"ÔÖÄÑµçÓ°",
+            "name":"ç¾éš¾ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8"
         },
         {
-            "name":"ÕæÊµ¸Ä±à",
+            "name":"çœŸå®æ”¹ç¼–",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8"
         },
         {
-            "name":"¾ªã¤µçÓ°",
+            "name":"æƒŠæ‚šç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8"
         },
         {
-            "name":"¸´³ğ·¸×ï",
+            "name":"å¤ä»‡çŠ¯ç½ª",
             "url":"http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8"
         },
         {
-            "name":"Õç×Óµ¤µçÓ°",
+            "name":"ç”„å­ä¸¹ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8"
         },
         {
-            "name":"¹ÅÌìÀÖµçÓ°",
+            "name":"å¤å¤©ä¹ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8"
         },
         {
-            "name":"Ë¹Ì¹É­µçÓ°",
+            "name":"æ–¯å¦æ£®ç”µå½±",
             "url":"http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8"
         },
         {
-            "name":"¸ßÇåµçÓ°1",
+            "name":"é«˜æ¸…ç”µå½±1",
             "url":"http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
         },
         {
-            "name":"¸ßÇåµçÓ°2",
+            "name":"é«˜æ¸…ç”µå½±2",
             "url":"http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"¸ßÇåµçÓ°3",
+            "name":"é«˜æ¸…ç”µå½±3",
             "url":"http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"¸ßÇåµçÓ°4",
+            "name":"é«˜æ¸…ç”µå½±4",
             "url":"http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°1",
+            "name":"ç†ŠçŒ«ç”µå½±1",
             "url":"http://pl-hls29.live.panda.tv/live_panda/733cd3c662c6eaeb491c3f15b6e4f728.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°2",
+            "name":"ç†ŠçŒ«ç”µå½±2",
             "url":"http://pl-hls29.live.panda.tv/live_panda/0c9d1af5d2f302878994c814575f9261.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°3",
+            "name":"ç†ŠçŒ«ç”µå½±3",
             "url":"http://pl-hls29.live.panda.tv/live_panda/4f14eca19f8704ba696572c6f15b93e0.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°4",
+            "name":"ç†ŠçŒ«ç”µå½±4",
             "url":"http://pl-hls29.live.panda.tv/live_panda/7e32e0b90b83df37c59ec7a3f288f609.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°5",
+            "name":"ç†ŠçŒ«ç”µå½±5",
             "url":"http://pl-hls29.live.panda.tv/live_panda/4990d2845b030d5d9f1289389bb07556.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°6",
+            "name":"ç†ŠçŒ«ç”µå½±6",
             "url":"http://pl-hls29.live.panda.tv/live_panda/8258245d3906a72d4f5b441425f67dcf.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°7",
+            "name":"ç†ŠçŒ«ç”µå½±7",
             "url":"http://pl-hls29.live.panda.tv/live_panda/f28d7d69a0d68afdc3e8fb032dd0c274.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°8",
+            "name":"ç†ŠçŒ«ç”µå½±8",
             "url":"http://pl-hls29.live.panda.tv/live_panda/093dd7b804084d09e0cc87ecd29f5608.m3u8"
         },
         {
-            "name":"ĞÜÃ¨µçÓ°9",
+            "name":"ç†ŠçŒ«ç”µå½±9",
             "url":"http://pl-hls29.live.panda.tv/live_panda/468037c7eaf776c1807cffafddc34dc9.m3u8"
         },
         {
-            "name":"·ï»ËµçÓ°",
+            "name":"å‡¤å‡°ç”µå½±",
             "url":"rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy"
         },
         {
-            "name":"Newtv-Ï²¾çµçÓ°",
+            "name":"Newtv-å–œå‰§ç”µå½±",
             "url":"http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8"
         },
         {
-            "name":"ÎÀÊÓµçÓ°Ì¨",
+            "name":"å«è§†ç”µå½±å°",
             "url":"http://pulllive-al.wasu.cn/live/1528461345367101.m3u8"
         },
         {
-            "name":"¾­µäµçÓ°",
+            "name":"ç»å…¸ç”µå½±",
             "url":"rtsp://119.39.49.116:554/ch00000090990000001054.sdp?vcdnid=001"
         },
         {
-            "name":"»·ÇòµçÊÓÌ¨",
+            "name":"ç¯çƒç”µè§†å°",
             "url":"http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
         },
         {
-            "name":"ĞÇ¿ÕÎÀÊÓ",
+            "name":"æ˜Ÿç©ºå«è§†",
             "url":"http://218.202.220.2:5000/nn_live.m3u8?id=STARTV"
         },
         {

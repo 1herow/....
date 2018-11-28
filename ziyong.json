@@ -265,14 +265,6 @@
         {
             "name":"HBO",
             "url":"http://218.202.220.2:5000/nn_live.m3u8?id=HBO"
-        },
-        {
-            "name":"1",
-            "url":"http://gogo.i998.tv/Public/Uploads/video/180329/fd0872cf8d6d263a12790e56f71d40ac/1.m3u8"
-        },
-        {
-            "name":"卫视电影台",
-            "url":"http://80.87.208.158:80/dna-4671-tv-pc.m3u8"
         }
     ]
 }
